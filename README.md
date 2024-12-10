@@ -66,6 +66,17 @@ Models were evaluated using the following metrics:
 | Linear Regression | 48,766.21 | 183.94 | 0.881 |
 | Random Forest | 34,211.06 | 146.53 | 0.916 |
 | Support Vector Regression | 30,456.51 | 144.37 | 0.926 |
+ 
+## Model Evaluation: VISUALIZED
+
+Residual Plots:
+
+<img width="776" alt="Screenshot 2024-12-10 at 13 36 10" src="https://github.com/user-attachments/assets/15b83f30-0501-4ae2-993e-9c9c80d8941f">
+
+Quantile - Quantile Plots:
+
+<img width="1086" alt="Screenshot 2024-12-10 at 13 37 02" src="https://github.com/user-attachments/assets/31cb39c3-6779-43aa-b95f-906f28eca213">
+
 
 ## Key Insights
 
@@ -101,8 +112,8 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## License
 
-[Specify your license here]
+Copyrighted.
 
 ## Contact
 
-[Your contact information or GitHub profile]
+[melkages@gmail.com]
